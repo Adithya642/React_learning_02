@@ -1,0 +1,22 @@
+{
+  "name": "namasthe_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adithya642/React_learning_02.git"
+  },
+  "author": "Adithya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adithya642/React_learning_02/issues"
+  },
+  "homepage": "https://github.com/Adithya642/React_learning_02#readme",
+  "devDependencies": {
+    "parsel": "^0.3.0"
+  }
+}
